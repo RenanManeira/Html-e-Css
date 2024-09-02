@@ -1,3 +1,5 @@
+
+/*nav sepado em um arquivo para melhor organização e manutenção do código */
 .navbar {
     background-color: rgb(206, 152, 90);
     overflow: hidden;
