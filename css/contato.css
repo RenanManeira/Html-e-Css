@@ -6,21 +6,6 @@
     padding: 0;
 }
 
-.navbar {
-    background-color: rgb(206, 152, 90);
-    overflow: hidden;
-    padding: 10px;
-}
-.navbar a {
-    color: white;
-    text-align: center;
-    padding: 14px 20px;
-    text-decoration: none;
-    display: block;
-}
-.navbar a:hover {
-    background-color: #575757;
-}
 
 .forms {
     width: 100%;
@@ -82,3 +67,12 @@
     display: flex;
     flex-direction: column;
     align-items: center; }
+
+    footer{
+        color: white;
+        text-align: center;
+        padding: 10px;
+        position: fixed;
+        width: 100%;
+        bottom: 0;
+    }

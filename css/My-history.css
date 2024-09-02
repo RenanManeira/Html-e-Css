@@ -2,6 +2,37 @@
     background-color: black;
     color: white;
     font-family: sans-serif;
-    margin: 0;
-    padding: 0;
+}
+
+.Text p{
+    text-align: center;
+    padding: 20px;
+    margin: 20px;
+    border: 1px solid #ccc; 
+}
+
+h2 {
+    
+    text-align: center;
+}
+
+.My-history{
+    display: flex;
+    flex-direction: row;
+}
+
+img{
+    border-radius: 20px;
+    width: 500px;
+    height: 500px;
+    border: 2px solid rgb(206, 152, 90);
+}
+
+footer{
+    color: white;
+    text-align: center;
+    padding: 10px;
+    position: fixed;
+    width: 100%;
+    bottom: 0;
 }
