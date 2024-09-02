@@ -1,0 +1,15 @@
+.navbar {
+    background-color: rgb(206, 152, 90);
+    overflow: hidden;
+    padding: 10px;
+}
+.navbar a {
+    color: white;
+    text-align: center;
+    padding: 14px 20px;
+    text-decoration: none;
+    display: block;
+}
+.navbar a:hover {
+    background-color: #575757;
+}
